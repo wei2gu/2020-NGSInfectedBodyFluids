@@ -1,0 +1,93 @@
+﻿Sample #,Sample Type,Organism detected by Nanopore at Validation threshold,nRPM nanopore  (1st org if polymicrobial),Total reads after demultiplexing but not preprocessed (Nanopore)*,Sequencing to Detection Time (mins)
+S1,Abscess,Staphylococcus aureus,106.33,3009473,128
+S2,CSF,Klebsiella aerogenes,27155.11,1125313,21
+S3,Joint Fluid,Streptococcus agalactiae,197.81,957999,23
+S4,CSF,Candida parapsilosis,0.54,1149917,30
+S5,Joint Fluid,<negative>,,1322673,110
+S6,Abscess,Pseudomonas aeruginosa,340.11,1346626,22
+S7,Pleural Fluid,<negative>,,636772,80
+S8,BAL,Pseudomonas aeruginosa,236.16,1084018,65
+S9,Pleural Fluid,Staphylococcus aureus,1114.42,488145,30
+S10,BAL,Haemophilus influenzae,8483.1,289281,21
+S11,Peritoneal Fluid,Staphylococcus aureus,4.12,4856000,65
+S12,Joint Fluid,<negative>,,1186712,90
+S13,Joint Fluid,Staphylococcus aureus,1.25,1201313,92
+S14,Vitreous Fluid,Pseudomonas aeruginosa,252.77,850430,23
+S15,BAL,"Staphylococcus aureus, Serratia marcescens",0.6,6682546,320
+S16,CSF,<negative>,,1160640,90
+S17,Pleural Fluid,"Serratia marcescens, Enterococcus faecium",42.71,1030130,40
+S18,CSF,"Staphylococcus epidermidis, Klebsiella pneumoniae",3130.95,840000,21
+S19,Pleural Fluid,"Serratia marcescens, Enterococcus faecium",8.72,1257246,30
+S20,CSF,"Enterococcus faecium, Stenotrophomonas maltophilia",93.15,893727,21
+S21,CSF,Enterococcus faecium,2.87,1107420,50
+S22,Peritoneal Fluid,"Candida glabrata, Candida albicans",236.16,1084000,50
+S23,Abscess,<negative>,,943619,80
+S24,Pleural Fluid,<negative>,,1047035,80
+S25,Joint Fluid,<negative>,,877940,75
+S26,Pleural Fluid,Enterococcus faecium,14.86,1142110,90
+S27,Abscess,Candida glabrata,4.72,1059195,40
+S28,Abscess,Escherichia coli,1283.49,875736,21
+S29,Abscess,Enterobacter kobei,40.66,834753,50
+S30,Joint Fluid,Staphylococcus aureus,84.2,1472597,29
+S31,Pleural Fluid,Klebsiella pneumoniae,12.79,980988,22
+S32,Abscess,Staphylococcus aureus,16.31,980905,50
+S33,CSF,<negative>,,2208864,90
+S34,Pleural Fluid,Streptococcus anginosus group,75.23,2631879,40
+S35,Pleural Fluid,<negative>,,1065110,80
+S36,Abscess,<negative>,,864539,72
+S37,Perihepatic Fluid,"Enterococcus faecium, Enterococcus faecalis",1461.31,387323,21
+S38,Abscess,<negative>,,990110,80
+S39,Joint Fluid,<negative>,,1182799,90
+S40,Pleural Fluid,<negative>,,1041357,80
+S41,Pleural Fluid,"Streptococcus pyogenes, Enterococcus faecium",85.99,1651298,25
+S42,Abscess,"Escherichia coli, Klebsiella aerogenes",237.7,976000,25
+S43,Joint Fluid,Staphylococcus aureus,21.55,1246809,32
+S44,Abscess,Staphylococcus aureus,7.86,1527561,70
+S45,Abscess,Staphylococcus aureus,79.77,852440,32
+S46,Joint Fluid,Staphylococcus aureus,19.69,1041161,26
+S47,Peritoneal Fluid,"Klebsiella pneumoniae, Escherichia coli",950.19,910866,22
+S48,Abscess,<negative>,,1327643,80
+S49,Swab,"Enterococcus faecium, Candida albicans",332.58,1271864,23
+S50,Peritoneal Fluid,"Klebsiella pneumoniae, Escherichia coli",2.32,970483,35
+S51,BAL,<negative>,,1164475,90
+S52,Joint Fluid,Staphylococcus aureus,15.89,1007195,50
+S53,Abscess,"Klebsiella pneumoniae, Citrobacter freundii",37.36,1070752,50
+S54,Subgaleal Fluid,Escherichia coli,615.27,616005,22
+S55,Joint Fluid,Staphylococcus aureus,0.45,5554723,130
+S56,Peritoneal Fluid,"Klebsiella pneumoniae, Enterococcus faecium",2022.59,1015257,21
+S57,Peritoneal Fluid,"Klebsiella pneumoniae, Enterococcus faecium",2.07,2522951,110
+S58,Pleural Fluid,Aspergillus fumigatus,4.16,1868346,50
+S59,Peritoneal Fluid,"Pseudomonas aeruginosa, Candida glabrata, Staphylococcus epidermidis, Neisseria sicca, Leuconostoc citreum",1619.76,1494316,22
+S60,Pleural Fluid,Pseudomonas aeruginosa,576.5,961609,22
+S61,Joint Fluid,Staphylococcus lugdunensis,9.35,945288,30
+S62,Urine,Escherichia coli,54.07,1494034,21
+S63,Joint Fluid,Staphylococcus lugdunensis,0.42,1060940,40
+S64,Peri-graft Fluid Swab,Mycoplasma hominis,33.14,1010779,23
+S65,Peritoneal Fluid,Streptococcus pyogenes,6.35,1890069,35
+S66,Joint Fluid,<negative>,,1123012,88
+S67,Joint Fluid,<negative>,,1122729,88
+S68,Joint Fluid,<negative>,,1126195,88
+S69,Abscess,Mycobacterium tuberculosis,2.87,4930575,200
+S70,Joint Fluid,Staphylococcus aureus,5.42,1291112,56
+S71,Abscess,Staphylococcus aureus,3.86,853756,21
+S72,Peritoneal Fluid,<negative>,,5576366,110
+S73,Anterior Mediastinal Fluid,Staphylococcus aureus,2983.43,530932,21
+S74,Peritoneal Fluid,"Enterococcus faecalis, Escherichia coli, Staphylococcus aureus",1502.62,2104447,65
+S75,Abscess,Streptococcus gordonii,59.03,982238,26
+S76,Peritoneal Fluid,Escherichia coli,372.95,1147539,21
+S77,Peritoneal Fluid,<negative>,,1003151,80
+S78,Urine,"Escherichia coli, Corynebacterium striatum",525.95,1152514,21
+S79,Chest Mass,Coccidioides immitis,30.07,1679321,23
+S80,Chest Mass Fluid,Coccidioides immitis,0.69,1029374,80
+S81,Wound Swab,Streptococcus pyogenes,129.99,2015541,23
+S82,Pleural Fluid,<negative>,,3076442,80
+S83,BAL,"Aspergillus terreus, Aspergillus fumigatus",0.72,1564000,60
+S84,Pleural Fluid,<negative>,,1082539,80
+S85,Abscess,Streptococcus pyogenes,4.1,1464840,65
+S86,Heel Fluid Swab,Not tested,n/a,n/a,NA
+S87,Abscess,Not tested,n/a,n/a,NA
+S88,CSF,Klebsiella aerogenes,21.26,1481958,23
+S89,Abscess,Not tested,n/a,n/a,NA
+S90,Pleural Fluid,Not tested,n/a,n/a,NA
+S91,Pleural Fluid,Not tested,n/a,n/a,NA
+S92,BAL,Not tested,n/a,n/a,NA
